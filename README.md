@@ -2,6 +2,8 @@
 
 ## To run the code: use Python 3.6+
 
+### Get pandas and numpy installed
+
 **execution command is :**
 python mainProcessor.py "$configuration file name"
 
